@@ -130,6 +130,10 @@ body {
     justify-content: center;
 }
 
+.b_c:hover {
+    background-color: #424242; /* Cor desejada ao passar o mouse */
+}
+
 
 .p_i {
     color: #ddd;
